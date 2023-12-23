@@ -17,7 +17,7 @@ public:
 
 int main(){
 	Solution s1;
-	vector<int>nums={12,33,43,122};
+	vector<int>nums={5,9,1,3,4};
 	int k;
 	cin>>k;
 	s1.rotate(nums,k);

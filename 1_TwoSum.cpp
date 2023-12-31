@@ -8,6 +8,7 @@ public:
 		for(int i=0;i<nums.size();i++){
 			if(ans.count(target-nums[i])){
 				cout<<ans[target-nums[i]]<<" "<<i;
+			
 			}
 			ans[nums[i]]=i;
 		}

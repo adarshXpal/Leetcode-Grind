@@ -18,7 +18,7 @@ public:
 
 int main(){
 	Solution s1;
-	vector<int>nums={0,2,3};
+	vector<int>nums={0,1,3,4,5,6};
 	cout<<s1.missingNumber(nums);
 return 0;
 }

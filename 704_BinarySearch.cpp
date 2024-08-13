@@ -18,6 +18,8 @@ public:
 };
 int main(){
 	Solution s1;
+  int hello;
+  cin>>hello;
 	vector<int>nums={2,5,7,12,45,67,68,79};
 	int target=44;
 	cout<<s1.search(nums,target);

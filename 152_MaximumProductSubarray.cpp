@@ -27,4 +27,4 @@ int main(){
 	vector<int>nums = {1,0,-1,2,3,-5,-2};
 	cout<<"The Maximum Product is :: "<<s1.maxProduct(nums);
 return 0;
-}
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim}
